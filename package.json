@@ -1,0 +1,25 @@
+{
+    "name": "smsprac",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "cron": "^1.2.1",
+        "express": "^4.15.4",
+        "firebase": "^4.3.0",
+        "firebase-admin": "^5.2.1",
+        "mongoose": "^4.11.7",
+        "node": "^8.3.0",
+        "ruby": "^0.6.1",
+        "rubygems": "^1.0.3",
+        "sinatra": "0.0.5",
+        "twilio": "^3.6.3"
+    }
+}
